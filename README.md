@@ -2,7 +2,7 @@
 Files details:
 I have tested my basic linux skills in these files.
 ## Here is a list of commands which I tested in following files:
-| File name           |                  Commands
+| File name | Commands |
 | :--- | :--- |
 | `students.txt`            `tail`, `head`, `nano`, `grep` (-n, -i, -v), `ls` |
 | `students2.txt`           `sort` (-r, -n) `nano`, `uniq` (-c, -d, -u), `wc` (-l, -m, -w), `ls` |
